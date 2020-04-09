@@ -1,0 +1,6 @@
+1 - yarn create reat-app nome_do_projeto //criando o projeto react
+2 - yarn add styled-components // trabalha com a estilização
+3 - yarn add react-icons // trabalha com os icones
+4 - yarn add react-router-dom // trabalha com as rotas
+5 - yarn add axios // trabalha com as chamadas na API
+
